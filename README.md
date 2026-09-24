@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/Parricidium/ArxCoop/releases/latest"><img src="https://img.shields.io/github/v/release/Parricidium/ArxCoop?label=Download&style=for-the-badge" alt="Download the latest release"></a>
   <a href="COPYING"><img src="https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge" alt="GPLv3"></a>
+  <a href="https://ko-fi.com/parricidium"><img src="https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"></a>
 </p>
 
 # ArxCoop — Arx Fatalis co-op for 2 to 4 players, now with ray tracing
